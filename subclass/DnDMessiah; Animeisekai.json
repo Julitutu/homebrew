@@ -369,7 +369,8 @@
 			"level": 15,
 			"entries": [
 				"As an Action, you unleash Starburst Stream, making 16 melee weapon attacks in rapid succession, alternating between the two swords you are wielding, beginning with either sword.",
-				"Each attack is resolved separately and uses the weapon used for that attack, including its damage dice, magical properties, additional damage, and other effects."
+				"Each attack is resolved separately and uses the weapon used for that attack, including its damage dice, magical properties, additional damage, and other effects.",
+				"You can use this feature once, and you regain the ability to do so when you finish a Short Rest."
 			]
 		},
 		{
@@ -385,7 +386,8 @@
 				"You then begin a deadly duel with the target. You make two melee weapon attacks against the target, one with each sword you are wielding. The target then makes one attack against you.",
 				"You and the target continue alternating turns in this manner, with you making two attacks, followed by the target making one attack, until either you or the target is reduced to 0 hit points.",
 				"While this duel is active, you and the target cannot use any action, bonus action, reaction, movement, or feature other than the attacks granted by The Eclipse. Neither combatant can willingly move away from the other or target another creature.",
-				"The duel ends immediately when either combatant is reduced to 0 hit points."
+				"The duel ends immediately when either combatant is reduced to 0 hit points.",
+				"You can use this feature once, and you regain the ability to do so when you finish a Long Rest."
 			]
 		},
 		{
