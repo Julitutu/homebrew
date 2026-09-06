@@ -16,7 +16,8 @@
             "color": "1388b4",
             "colorNight": "1388b4",
             "url": "https://github.com/TheGiddyLimit/homebrew",
-            "dateReleased": "2026-07-01"
+            "dateReleased": "2026-07-01",
+            "partnered": true,
         }
     ],
     "fonts": {
@@ -47,7 +48,7 @@
     },
     "edition": "one",
     "unlisted": true,
-    "status": "wip",
+    "status": "ready",
     "dateAdded": 1786817519,
     "dateLastModified": 1786817519
     },
